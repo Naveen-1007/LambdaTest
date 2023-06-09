@@ -2,34 +2,34 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-09T08:38:37 UTC" name="Suite" finished-at="2023-06-09T08:38:56 UTC" duration-ms="19108">
+  <suite started-at="2023-06-09T08:42:31 UTC" name="Suite" finished-at="2023-06-09T08:42:52 UTC" duration-ms="21144">
     <groups>
     </groups>
-    <test started-at="2023-06-09T08:38:37 UTC" name="Test" finished-at="2023-06-09T08:38:56 UTC" duration-ms="19108">
+    <test started-at="2023-06-09T08:42:31 UTC" name="Test" finished-at="2023-06-09T08:42:52 UTC" duration-ms="21144">
       <class name="sample.UseCase1_Chrome">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:sample.UseCase1_Chrome@4d5650ae]" started-at="2023-06-09T08:38:37 UTC" name="setUp" finished-at="2023-06-09T08:38:42 UTC" duration-ms="5490" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:sample.UseCase1_Chrome@4d5650ae]" started-at="2023-06-09T08:42:31 UTC" name="setUp" finished-at="2023-06-09T08:42:36 UTC" duration-ms="5048" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testSimple()[pri:0, instance:sample.UseCase1_Chrome@4d5650ae]" started-at="2023-06-09T08:38:43 UTC" name="testSimple" finished-at="2023-06-09T08:38:48 UTC" duration-ms="5619" status="PASS">
+        <test-method signature="testSimple()[pri:0, instance:sample.UseCase1_Chrome@4d5650ae]" started-at="2023-06-09T08:42:36 UTC" name="testSimple" finished-at="2023-06-09T08:42:47 UTC" duration-ms="11016" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSimple -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:sample.UseCase1_Chrome@4d5650ae]" started-at="2023-06-09T08:38:48 UTC" name="tearDown" finished-at="2023-06-09T08:38:49 UTC" duration-ms="1099" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sample.UseCase1_Chrome@4d5650ae]" started-at="2023-06-09T08:42:47 UTC" name="tearDown" finished-at="2023-06-09T08:42:49 UTC" duration-ms="1199" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- sample.UseCase1_Chrome -->
       <class name="sample.UseCase1_Firefox">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:sample.UseCase1_Firefox@25641d39]" started-at="2023-06-09T08:38:37 UTC" name="setUp" finished-at="2023-06-09T08:38:45 UTC" duration-ms="8468" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:sample.UseCase1_Firefox@25641d39]" started-at="2023-06-09T08:42:31 UTC" name="setUp" finished-at="2023-06-09T08:42:41 UTC" duration-ms="9609" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testSimple()[pri:0, instance:sample.UseCase1_Firefox@25641d39]" started-at="2023-06-09T08:38:45 UTC" name="testSimple" finished-at="2023-06-09T08:38:54 UTC" duration-ms="8484" status="PASS">
+        <test-method signature="testSimple()[pri:0, instance:sample.UseCase1_Firefox@25641d39]" started-at="2023-06-09T08:42:41 UTC" name="testSimple" finished-at="2023-06-09T08:42:50 UTC" duration-ms="9386" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSimple -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:sample.UseCase1_Firefox@25641d39]" started-at="2023-06-09T08:38:54 UTC" name="tearDown" finished-at="2023-06-09T08:38:56 UTC" duration-ms="2122" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sample.UseCase1_Firefox@25641d39]" started-at="2023-06-09T08:42:50 UTC" name="tearDown" finished-at="2023-06-09T08:42:52 UTC" duration-ms="2112" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
